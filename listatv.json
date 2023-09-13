@@ -89,6 +89,10 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5d2731cf8a59b73438ef59d88cd882bf&key=3f412fa6368b7db4903588de695377e1"
       },
       {
+        "name": "CENTRAL TV",
+        "uri": "https://cloudtv.streaming.com.py/centraltv/centraltv/playlist.m3u8"
+      },
+      {
         "name": "LA TELE",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc_2A/LA_TELE_C4.mpd",
         "drm_scheme": "clearkey",
@@ -123,10 +127,6 @@
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc_2A/UNICANAL_C4.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=63a3729cfd60f24f7e1266bee5eca02c&key=cb9ed028af40654e1aa43934ee58db58"
-      },
-      {
-        "name": "CENTRAL TV",
-        "uri": "https://cloudtv.streaming.com.py/centraltv/centraltv/playlist.m3u8"
       },
       {
         "name": "ABC TV",
