@@ -650,7 +650,7 @@
       },
       {
         "name": "ESPN PREMIUM 2 HD",
-        "uri": "https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(FOX_SPORTS_PREMIUM)/index.m3u8"
+        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(FOX_SPORTS_PREMIUM)/index.m3u8"
       },
       {
         "name": "FOX SPORTS 1 HD",
@@ -1172,7 +1172,7 @@
       },
       {
         "name": "CANAL DE LAS ESTRELLAS 2",
-        "uri": "https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(Canal_De_Las_Estrellas_HD)/index.m3u8"
+        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(Canal_De_Las_Estrellas_HD)/index.m3u8"
       },
       {
         "name": "PASIONES",
@@ -1203,7 +1203,7 @@
       },
       {
         "name": "MTV LIVE",
-        "uri": "https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(MTV_Live_HD)/index.m3u8"
+        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(MTV_Live_HD)/index.m3u8"
       },
       {
         "name": "MTV HITS",
@@ -1229,7 +1229,7 @@
       },
       {
         "name": "QUIERO MUSICA TV",
-        "uri": "https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(Quiero_Musica)/index.m3u8"
+        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(Quiero_Musica)/index.m3u8"
       },
       {
         "name": "VH1",
@@ -1256,7 +1256,7 @@
       },
       {
         "name": "CNN INTERNACIONAL",
-        "uri": "https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(CNN_Internacional)/index.m3u8"
+        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(CNN_Internacional)/index.m3u8"
         },
       {
         "name": "CNN CHILE",
